@@ -3,7 +3,6 @@ no_salir=True
 cont=1
 numero=int(input("Numero: "))
 
-
 while es_primo and no_salir:
     if numero%cont==0:
         es_primo=False
